@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Logan Woodward
+//Logan Woodward, Programing assignement 6.31
 //Program takes the input of a creditcard number, and determines whether the number is valid or not
 public class CCVerification {
 
